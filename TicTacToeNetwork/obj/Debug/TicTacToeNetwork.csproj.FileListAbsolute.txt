@@ -1,0 +1,11 @@
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\bin\Debug\TicTacToeNetwork.exe.config
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\bin\Debug\TicTacToeNetwork.exe
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\bin\Debug\TicTacToeNetwork.pdb
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\obj\Debug\TicTacToeNetwork.csprojAssemblyReference.cache
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\obj\Debug\TicTacToeNetwork.csproj.CoreCompileInputs.cache
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\obj\Debug\TicTacToeNetwork.exe
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\obj\Debug\TicTacToeNetwork.pdb
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\bin\Debug\TicTacToeNetwork.exe.manifest
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\bin\Debug\TicTacToeNetwork.application
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\obj\Debug\TicTacToeNetwork.exe.manifest
+C:\Users\Matsanov\source\repos\TicTacToeNetwork\TicTacToeNetwork\obj\Debug\TicTacToeNetwork.application
